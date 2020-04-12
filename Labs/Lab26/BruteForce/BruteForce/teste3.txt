@@ -1,0 +1,87 @@
+Computer science is the scientific and practical approach to computation and 
+its applications. It is the systematic study of the feasibility, structure, 
+expression, and mechanization of the methodical procedures (or algorithms) 
+that underlie the acquisition, representation, processing, storage, communication 
+of, and access to information, whether such information is encoded as bits in a 
+computer memory or transcribed in genes and protein structures in a biological 
+cell. An alternate, more succinct definition of computer science is the study of 
+automating algorithmic processes that scale. A computer scientist specializes in 
+the theory of computation and the design of computational systems.
+
+Its subfields can be divided into a variety of theoretical and practical disciplines. 
+Some fields, such as computational complexity theory (which explores the fundamental 
+properties of computational and intractable problems), are highly abstract, while 
+fields such as computer graphics emphasize real-world visual applications. Still 
+other fields focus on the challenges in implementing computation. For example, 
+programming language theory considers various approaches to the description of 
+computation, while the study of computer programming itself investigates various 
+aspects of the use of programming language and complex systems. Human-computer 
+interaction considers the challenges in making computers and computations useful, 
+usable, and universally accessible to humans.
+
+The earliest foundations of what would become computer science predate the invention 
+of the modern digital computer. Machines for calculating fixed numerical tasks 
+such as the abacus have existed since antiquity, aiding in computations such as 
+multiplication and division. Further, algorithms for performing computations have 
+existed since antiquity, even before sophisticated computing equipment were created. 
+The ancient Sanskrit treatise Shulba Sutras, or "Rules of the Chord", is a book 
+of algorithms written in 800 BCE for constructing geometric objects like altars 
+using a peg and chord, an early precursor of the modern field of computational 
+geometry.
+
+Blaise Pascal designed and constructed the first working mechanical calculator, 
+Pascal's calculator, in 1642. In 1673 Gottfried Leibniz demonstrated a digital 
+mechanical calculator, called the 'Stepped Reckoner'. He may be considered the 
+first computer scientist and information theorist, for, among other reasons, 
+documenting the binary number system. In 1820, Thomas de Colmar launched the 
+mechanical calculator industry when he released his simplified arithmometer, 
+which was the first calculating machine strong enough and reliable enough to be 
+used daily in an office environment. Charles Babbage started the design of the 
+first automatic mechanical calculator, his difference engine, in 1822, which 
+eventually gave him the idea of the first programmable mechanical calculator, 
+his Analytical Engine. He started developing this machine in 1834 and "in less 
+than two years he had sketched out many of the salient features of the modern 
+computer. A crucial step was the adoption of a punched card system derived from 
+the Jacquard loom" making it infinitely programmable. In 1843, during the translation 
+of a French article on the analytical engine, Ada Lovelace wrote, in one of the 
+many notes she included, an algorithm to compute the Bernoulli numbers, which 
+is considered to be the first computer program. Around 1885, Herman Hollerith 
+invented the tabulator, which used punched cards to process statistical information; 
+eventually his company became part of IBM. In 1937, one hundred years after Babbage's 
+impossible dream, Howard Aiken convinced IBM, which was making all kinds of 
+punched card equipment and was also in the calculator business to develop his 
+giant programmable calculator, the ASCC/Harvard Mark I, based on Babbage's 
+analytical engine, which itself used cards and a central computing unit. When 
+the machine was finished, some hailed it as "Babbage's dream come true".
+
+During the 1940s, as new and more powerful computing machines were developed, 
+the term computer came to refer to the machines rather than their human predecessors. 
+As it became clear that computers could be used for more than just mathematical 
+calculations, the field of computer science broadened to study computation in 
+general. Computer science began to be established as a distinct academic discipline 
+in the 1950s and early 1960s. The world's first computer science degree program, 
+the Cambridge Diploma in Computer Science, began at the University of Cambridge 
+Computer Laboratory in 1953. The first computer science degree program in the 
+United States was formed at Purdue University in 1962. Since practical computers 
+became available, many applications of computing have become distinct areas of 
+study in their own rights.
+
+Although many initially believed it was impossible that computers themselves 
+could actually be a scientific field of study, in the late fifties it gradually 
+became accepted among the greater academic population. It is the now well-known 
+IBM brand that formed part of the computer science revolution during this time. 
+IBM (short for International Business Machines) released the IBM 704 and later 
+the IBM 709 computers, which were widely used during the exploration period of 
+such devices. "Still, working with the IBM [computer] was frustrating ... if 
+you had misplaced as much as one letter in one instruction, the program would 
+crash, and you would have to start the whole process over again". During the 
+late 1950s, the computer science discipline was very much in its developmental 
+stages, and such issues were commonplace.
+
+Time has seen significant improvements in the usability and effectiveness of 
+computing technology. Modern society has seen a significant shift in the users 
+of computer technology, from usage only by experts and professionals, to a 
+near-ubiquitous user base. Initially, computers were quite costly, and some 
+degree of human aid was needed for efficient use - in part from professional 
+computer operators. As computer adoption became more widespread and affordable, 
+less human assistance was needed for common usage.
