@@ -1,6 +1,6 @@
 # Estrutura de Dados II
 
-Este repositório contém o material utilizado no curso de Estrutura de Dados II ministrado para os alunos do curso de Ciência da Computação da Universidade Federal Rural do Semi-Árido (UFERSA) em 2017.2. Eu não ministro mais essa disciplina e não atualizo mais este material.
+Este repositório contém o material utilizado no curso de Estrutura de Dados II ministrado para os alunos do curso de Ciência da Computação da Universidade Federal Rural do Semi-Árido (UFERSA) em 2017.2. Eu não ministro mais essa disciplina e não atualizo este material. Mesmo assim acredito que o curso estava em um ótimo estado da última vez que foi ministrado e pode ser útil para quem deseja montar um curso sobre o assunto.
 
 A numeração dos laboratórios (Labs) coincidem com a sequência das aulas (Slides): 
 
